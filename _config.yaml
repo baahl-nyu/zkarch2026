@@ -1,0 +1,8 @@
+title: ZKARCH 2026
+description: The 2nd Workshop on Architectures for Zero-Knowledge Proofs and Verifiable Computation
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+github:
+  is_project_page: false
+
