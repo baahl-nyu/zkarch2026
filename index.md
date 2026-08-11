@@ -20,7 +20,6 @@ The workshop provides an informal forum for sharing new ideas, identifying commo
 | **Date** | October 31, 2026 |
 | **Time** | 8:00 AM |
 | **Location** | Athens, Greece |
-<!-- | **Format** | In person | -->
 
 ## Scope
 
@@ -48,7 +47,7 @@ The workshop program and speaker lineup will be announced soon.
 | To be announced | Welcome and opening remarks |
 | To be announced | Invited and contributed talks |
 | To be announced | Closing remarks |
-<!-- | To be announced | Breaks and community discussion | -->
+
 
 ## Call for Participation
 
