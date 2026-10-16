@@ -42,21 +42,21 @@ ZKARCH creates a space to critically evaluate these approaches and share lessons
 
 ### Saturday, October 31, 2026 (All times are Athens local time)
 
-| Time | Speaker | Talk Title |
-|:--|:--|:--|
-| 8:00 – 8:05 AM | --- | **Welcome & Opening Remarks** |
-| 8:05 – 8:25 AM | **Tarunesh Verma**<br>University of Michigan | TBD |
-| 8:25 – 8:45 AM | **Cheng Wang**<br>Tsinghua University | Accelerating Zero-Knowledge Proofs with Unified Architectures |
-| 8:45 – 9:05 AM | **Lan Yang**<br>Fudan University | Scalable NTT and MSM Acceleration for Zero-Knowledge Proofs |
-| 9:05 – 9:25 AM | **Naifeng Zhang**<br>Carnegie Mellon University | Towards Closing the Performance Gap for Cryptographic Kernels Between CPUs and Specialized Hardware |
-| 9:25 – 9:45 AM | **Sunchae Kim**<br>Korea University | Efficient HBM-Based PIM Architecture for Linear Complexity Zero Knowledge Proofs |
-| 9:45 – 10:05 AM | --- |**Coffee Break** |
-| 10:05 – 10:35 AM | **Siddharth Garg (Keynote)**<br>New York University | High(er)-Level Synthesis: Agentic AI for Cryptographic Kernel Hardware Design |
-| 10:35 – 10:55 AM | **Stefanos Chaliasos**<br>ETH Zurich | The State of ZKP Security Tools and Verification Efforts |
-| 10:55 – 11:15 AM | **Bowen Duan**<br>Duke University | Accelerating ZKP Provers from Algorithm to Hardware Stack |
-| 11:35 – 11:55 AM | **Yueteng Yu**<br>Tsinghua University | Accelerating Plonkish Witness Generation on GPUs |
-| 11:15 – 11:35 AM | **Brendan Sweezy**<br>New York University | TBD |
-| 11:55 – 12:00 PM | --- | **Closing Remarks** |
+| Time | Speaker | Affiliation | Talk Title |
+|:--|:--|:--|:--|
+| 8:00&nbsp;–&nbsp;8:05&nbsp;AM |  | | **Welcome & Opening Remarks** |
+| 8:05&nbsp;–&nbsp;8:25&nbsp;AM | **Tarunesh Verma** | University of Michigan | TBD |
+| 8:25&nbsp;–&nbsp;8:45&nbsp;AM | **Cheng Wang** | Tsinghua University | Accelerating Zero-Knowledge Proofs with Unified Architectures |
+| 8:45&nbsp;–&nbsp;9:05&nbsp;AM | **Lan Yang** | Fudan University | Scalable NTT and MSM Acceleration for Zero-Knowledge Proofs |
+| 9:05&nbsp;–&nbsp;9:25&nbsp;AM | **Naifeng Zhang** | Carnegie Mellon University | Towards Closing the Performance Gap for Cryptographic Kernels Between CPUs and Specialized Hardware |
+| 9:25&nbsp;–&nbsp;9:45&nbsp;AM | **Sunchae Kim** | Korea University | Efficient HBM-Based PIM Architecture for Linear Complexity Zero Knowledge Proofs |
+| 9:45&nbsp;–&nbsp;10:05&nbsp;AM | | | **Coffee Break** |
+| 10:05&nbsp;–&nbsp;10:35&nbsp;AM | **Siddharth Garg (Keynote)** | New York University | High(er)-Level Synthesis: Agentic AI for Cryptographic Kernel Hardware Design |
+| 10:35&nbsp;–&nbsp;10:55&nbsp;AM | **Stefanos Chaliasos** | ETH Zurich | The State of ZKP Security Tools and Verification Efforts |
+| 10:55&nbsp;–&nbsp;11:15&nbsp;AM | **Bowen Duan** | Duke University | Accelerating ZKP Provers from Algorithm to Hardware Stack |
+| 11:15&nbsp;–&nbsp;11:35&nbsp;AM | **Brendan Sweezy** | New York University | TBD |
+| 11:35&nbsp;–&nbsp;11:55&nbsp;AM | **Yueteng Yu** | Tsinghua University | Accelerating Plonkish Witness Generation on GPUs |
+| 11:55&nbsp;–&nbsp;12:00&nbsp;PM | | | **Closing Remarks** |
 
 
 ## Organizers and Contact
