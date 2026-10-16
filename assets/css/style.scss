@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Give the program table more horizontal room than Cayman's 64rem default.
+.main-content {
+  max-width: 90rem;
+}
+
+// Keep schedule times on one line. Wide tables remain horizontally scrollable
+// on small screens through Cayman's existing table styles.
+.main-content table th:first-child,
+.main-content table td:first-child {
+  white-space: nowrap;
+}
