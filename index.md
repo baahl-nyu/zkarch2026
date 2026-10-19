@@ -53,8 +53,8 @@ ZKARCH creates a space to critically evaluate these approaches and share lessons
 | 10:20&nbsp;–&nbsp;10:40&nbsp;AM | **(TBD)** | TBD | TBD |
 | 10:40&nbsp;–&nbsp;11:00&nbsp;AM | **Stefanos Chaliasos** | ETH Zurich | The State of ZKP Security Tools and Verification Efforts |
 | 11:00&nbsp;–&nbsp;11:20&nbsp;AM | **Bowen Duan** | Duke University | Accelerating ZKP Provers from Algorithm to Hardware Stack |
-| 11:20&nbsp;–&nbsp;11:40&nbsp;AM | **Brendan Sweezy** | New York University | TBD |
-| 11:40&nbsp;–&nbsp;12:00&nbsp;PM | **Yueteng Yu** | Tsinghua University | Accelerating Plonkish Witness Generation on GPUs |
+| 11:20&nbsp;–&nbsp;11:40&nbsp;AM | **Yueteng Yu** | Tsinghua University | Accelerating Plonkish Witness Generation on GPUs |
+| 11:40&nbsp;–&nbsp;12:00&nbsp;PM | **Brendan Sweezy** | New York University | TBD |
 
 
 ## Organizers and Contact
