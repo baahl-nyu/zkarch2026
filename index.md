@@ -45,13 +45,13 @@ ZKARCH creates a space to critically evaluate these approaches and share lessons
 | 8:00&nbsp;–&nbsp;8:20&nbsp;AM | | | **Arrival and Networking** |
 | 8:20&nbsp;–&nbsp;8:25&nbsp;AM | | | **Welcome & Opening Remarks** |
 | 8:25&nbsp;–&nbsp;8:45&nbsp;AM | **Tarunesh Verma** | University of Michigan | TBD |
-| 8:45&nbsp;–&nbsp;9:05&nbsp;AM | **Cheng Wang** | Tsinghua University | Accelerating Zero-Knowledge Proofs with Unified Architectures |
+| 8:45&nbsp;–&nbsp;9:05&nbsp;AM | **Cheng Wang** | Xi’an Jiaotong University | Accelerating Zero-Knowledge Proofs with Unified Architectures |
 | 9:05&nbsp;–&nbsp;9:25&nbsp;AM | **Lan Yang** | Fudan University | Scalable NTT and MSM Acceleration for Zero-Knowledge Proofs |
 | 9:25&nbsp;–&nbsp;9:45&nbsp;AM | **Naifeng Zhang** | Carnegie Mellon University | Towards Closing the Performance Gap for Cryptographic Kernels Between CPUs and Specialized Hardware |
 | 9:45&nbsp;–&nbsp;10:05&nbsp;AM | **Sunchae Kim** | University of Toronto | Efficient HBM-Based PIM Architecture for Linear Complexity Zero Knowledge Proofs |
 | 10:05&nbsp;–&nbsp;10:20&nbsp;AM | | | **Coffee Break** |
 | 10:20&nbsp;–&nbsp;10:40&nbsp;AM | **(TBD)** | TBD | TBD |
-| 10:40&nbsp;–&nbsp;11:00&nbsp;AM | **Stefanos Chaliasos** | ETH Zurich | The State of ZKP Security Tools and Verification Efforts |
+| 10:40&nbsp;–&nbsp;11:00&nbsp;AM | **Stefanos Chaliasos** | University College London | The State of ZKP Security Tools and Verification Efforts |
 | 11:00&nbsp;–&nbsp;11:20&nbsp;AM | **Bowen Duan** | Duke University | Accelerating ZKP Provers from Algorithm to Hardware Stack |
 | 11:20&nbsp;–&nbsp;11:40&nbsp;AM | **Yueteng Yu** | Tsinghua University | Accelerating Plonkish Witness Generation on GPUs |
 | 11:40&nbsp;–&nbsp;12:00&nbsp;PM | **Brendan Sweezy** | New York University | Accelerating Folding-Based ZKPs for Low-Memory Proving |
