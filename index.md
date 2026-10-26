@@ -44,7 +44,7 @@ ZKARCH creates a space to critically evaluate these approaches and share lessons
 |:--|:--|:--|:--|
 | 8:00&nbsp;–&nbsp;8:20&nbsp;AM | | | **Arrival and Networking** |
 | 8:20&nbsp;–&nbsp;8:25&nbsp;AM | | | **Welcome & Opening Remarks** |
-| 8:25&nbsp;–&nbsp;8:45&nbsp;AM | **Tarunesh Verma** | University of Michigan | TBD |
+| 8:25&nbsp;–&nbsp;8:45&nbsp;AM | **Tarunesh Verma** | University of Michigan | ZKProphet: Understanding Performance of Zero-Knowledge Proofs on GPUs |
 | 8:45&nbsp;–&nbsp;9:05&nbsp;AM | **Cheng Wang** | Xi’an Jiaotong University | Accelerating Zero-Knowledge Proofs with Unified Architectures |
 | 9:05&nbsp;–&nbsp;9:25&nbsp;AM | **Lan Yang** | Fudan University | Scalable NTT and MSM Acceleration for Zero-Knowledge Proofs |
 | 9:25&nbsp;–&nbsp;9:45&nbsp;AM | **Naifeng Zhang** | Carnegie Mellon University | Towards Closing the Performance Gap for Cryptographic Kernels Between CPUs and Specialized Hardware |
