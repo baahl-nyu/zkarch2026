@@ -50,7 +50,7 @@ ZKARCH creates a space to critically evaluate these approaches and share lessons
 | 9:25&nbsp;–&nbsp;9:45&nbsp;AM | **Naifeng Zhang** | Carnegie Mellon University | Towards Closing the Performance Gap for Cryptographic Kernels Between CPUs and Specialized Hardware |
 | 9:45&nbsp;–&nbsp;10:05&nbsp;AM | **Sunchae Kim** | University of Toronto | Efficient HBM-Based PIM Architecture for Linear Complexity Zero Knowledge Proofs |
 | 10:05&nbsp;–&nbsp;10:20&nbsp;AM | | | **Coffee Break** |
-| 10:20&nbsp;–&nbsp;10:40&nbsp;AM | **(TBD)** | TBD | TBD |
+| 10:20&nbsp;–&nbsp;10:40&nbsp;AM | **Alhad Daftardar** | New York University | Locus: A Framework for Exploring and Optimizing Point Addition Hardware for Zero-Knowledge Proofs |
 | 10:40&nbsp;–&nbsp;11:00&nbsp;AM | **Stefanos Chaliasos** | University College London | The State of ZKP Security Tools and Verification Efforts |
 | 11:00&nbsp;–&nbsp;11:20&nbsp;AM | **Bowen Duan** | Duke University | Accelerating ZKP Provers from Algorithm to Hardware Stack |
 | 11:20&nbsp;–&nbsp;11:40&nbsp;AM | **Yueteng Yu** | Tsinghua University | Accelerating Plonkish Witness Generation on GPUs |
