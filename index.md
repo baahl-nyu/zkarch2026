@@ -120,7 +120,7 @@ Jianqiao "Cambridge" Mo (PhD Candidate, NYU) - jqmo@nyu.edu
 
 Brendan Sweezy (PhD Student, NYU) - bcs7944@nyu.edu
 
-Brandon Reagen (Assistant Professor, NYU) - bjr5@nyu.edu
+Brandon Reagen (Associate Professor, NYU) - bjr5@nyu.edu
 
 ## Previous Workshop
 
