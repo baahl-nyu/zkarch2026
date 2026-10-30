@@ -18,6 +18,7 @@ The workshop provides an informal forum for sharing new ideas, identifying commo
 | **Date** | October 31, 2026 |
 | **Time** | 8:00 AM |
 | **Location** | Athens, Greece |
+| **Livestream** | [Zoom Link](https://duke.zoom.us/j/7527953006?pwd=NViKrblc5QtsZKzPbNxGEx9wboonX9.1&omn=97709800736), Password: ZKARCH
 
 ## Scope
 
